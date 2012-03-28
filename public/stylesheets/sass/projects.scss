@@ -8,7 +8,25 @@ $light-yellow: #f0f096;
 $dark-yellow: #f0f086;
 
 $light-grey: #ccc;
-$dark-grey: #444;
+$dark-grey: #222;
+
+a.artefact {
+  color: white;
+}
+
+p.build_log {
+  font-family: monospace;
+  line-height: 96%;
+  text-wrap: unrestricted;
+  background:red;
+  margin: 1.2em;
+}
+
+div.ci {
+  font-size: 10px;
+  color: white;
+  background-color: $dark-grey;
+}
 
 h2.project {
   em.project_ruby {
