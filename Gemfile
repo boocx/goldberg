@@ -32,3 +32,5 @@ group :test do
   gem 'rspec-http', '~> 0.10.0'
   gem 'simplecov'
 end
+
+gem 'puma'
