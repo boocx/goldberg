@@ -25,8 +25,6 @@ group :development, :test do
   gem 'spork', '~> 0.9.0'
 end
 
-gem 'puma', '~> 1.5.0', :platforms => :rbx
-
 group :test do
   gem 'factory_girl_rails', '~> 3.5.0'
   gem 'rspec-http', '~> 0.10.0'
