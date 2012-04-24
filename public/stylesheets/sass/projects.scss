@@ -18,13 +18,13 @@ p.build_log {
   font-family: monospace;
   line-height: 96%;
   text-wrap: unrestricted;
-  background:red;
   margin: 1.2em;
 }
 
 div.ci {
   font-size: 10px;
   color: white;
+  padding-bottom: 1em;
   background-color: $dark-grey;
 }
 
