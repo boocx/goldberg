@@ -16,8 +16,7 @@ a.artefact {
 
 p.build_log {
   font-family: monospace;
-  line-height: 96%;
-  text-wrap: unrestricted;
+  text-wrap: none;
   margin: 1.2em;
 }
 
@@ -44,7 +43,6 @@ h2.project {
   border-top-right-radius: 8px;
   border-top-left-radius: 8px;
   line-height: 30px;
-  height: 30px;
   padding: 0;
 
   h2 {
