@@ -16,7 +16,9 @@ a.artefact {
 
 p.build_log {
   font-family: monospace;
-  text-wrap: none;
+  font-size: 12px;
+  line-height: 115%;
+  text-wrap: unrestriced;
   margin: 1.2em;
 }
 
