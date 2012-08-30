@@ -6,7 +6,6 @@ db/*.sqlite3
 *.tmproj
 *.gem
 *.rbc
-Gemfile.lock
 log/*
 tmp/*
 projects/*
